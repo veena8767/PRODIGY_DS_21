@@ -1,4 +1,4 @@
-# Titanic Dataset EDA using Power BI
+# Titanic Dataset EDA using Power BI(sri)
 
 This Power BI project performs **data cleaning** and **exploratory data analysis (EDA)** on the Titanic dataset from Kaggle.
 
